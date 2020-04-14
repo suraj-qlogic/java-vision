@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.99.4](https://www.github.com/googleapis/java-vision/compare/v1.99.3...v1.99.4) (2020-04-14)
+
+
+### Dependencies
+
+* update dependency com.google.guava:guava-bom to v29 ([#109](https://www.github.com/googleapis/java-vision/issues/109)) ([02771ae](https://www.github.com/googleapis/java-vision/commit/02771aef6fe28fb190b2775fa4a8c4b6f3a69ae1))
+
 ### [1.99.3](https://www.github.com/googleapis/java-vision/compare/v1.99.2...v1.99.3) (2020-04-07)
 
 
